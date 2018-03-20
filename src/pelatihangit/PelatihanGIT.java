@@ -16,6 +16,7 @@ public class PelatihanGIT {
      */
     public static void main(String[] args) {
         System.out.println("Coba");
+        System.out.println("Coba lagi");
     }
     
 }
